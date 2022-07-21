@@ -7,8 +7,6 @@ import java.util.Map;
 
 import org.springframework.stereotype.Service;
 
-import com.lq.bank.model.Customer;
-
 @Service
 public class CustomerService {
 
